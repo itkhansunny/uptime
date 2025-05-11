@@ -1,20 +1,22 @@
 [
   {
     "name": "Khan Sunny",
-    "url": "https://www.khansunny.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.khansunny.com.ico",
+    "url": "https://itks.me",
+    "icon": "https://icons.duckduckgo.com/ip3/itks.me.ico",
     "slug": "khan-sunny",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "27.13%",
+    "uptimeDay": "27.13%",
+    "uptimeWeek": "27.13%",
+    "uptimeMonth": "27.13%",
+    "uptimeYear": "27.13%",
+    "time": 867,
+    "timeDay": 867,
+    "timeWeek": 867,
+    "timeMonth": 867,
+    "timeYear": 867,
+    "dailyMinutesDown": {
+      "2025-05-11": 3
+    }
   }
 ]
