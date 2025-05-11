@@ -1,4 +1,4 @@
-# [📈 Live Status](https://itkhansunny.github.io/upptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://itkhansunny.github.io/uptime): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Khan Sunny](khansunny.com), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -14,7 +14,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://itkhansunny.github.io/upptime)
+[**Visit our status website →**](https://itkhansunny.github.io/uptime)
 
 ## 📄 License
 
