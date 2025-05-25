@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Khan Sunny
-    url: https://itks.me
+    url: https://khansunny.com
   # - name: Wikipedia
   #   url: https://en.wikipedia.org
   # - name: Hacker News
