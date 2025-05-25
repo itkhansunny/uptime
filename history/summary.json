@@ -1,8 +1,8 @@
 [
   {
     "name": "Khan Sunny",
-    "url": "https://itks.me",
-    "icon": "https://icons.duckduckgo.com/ip3/itks.me.ico",
+    "url": "https://khansunny.com",
+    "icon": "https://icons.duckduckgo.com/ip3/khansunny.com.ico",
     "slug": "khan-sunny",
     "status": "up",
     "uptime": "99.98%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 1664,
-    "timeDay": 1397,
-    "timeWeek": 2279,
-    "timeMonth": 1664,
-    "timeYear": 1664,
+    "time": 1645,
+    "timeDay": 1373,
+    "timeWeek": 2163,
+    "timeMonth": 1645,
+    "timeYear": 1645,
     "dailyMinutesDown": {
       "2025-05-11": 3
     }
