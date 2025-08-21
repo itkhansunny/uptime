@@ -4,7 +4,7 @@
     "url": "https://khansunny.com",
     "icon": "https://icons.duckduckgo.com/ip3/khansunny.com.ico",
     "slug": "khan-sunny",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1635,
     "timeYear": 1456,
     "dailyMinutesDown": {
+      "2025-08-21": 0,
       "2025-08-10": 29,
       "2025-07-26": 62,
       "2025-07-24": 30,
